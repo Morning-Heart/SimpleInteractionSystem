@@ -35,7 +35,8 @@ To use this asset, you shall write your own scripts of "InteractOption".
 As an Example, i've wrote the "InteractOptLogText" for you.
 This will log text in the console.
 
-For more details, please check the tutorial video on the assetstore page.
+For more details, please check the tutorial video  below.
+https://youtu.be/KLYXgdNqTjk
 
 Documentation
 ================

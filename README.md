@@ -13,6 +13,10 @@ There's no restriction on rendering pipeline as the demo scene only uses the def
 
 I recommend to first check the Scene/Demo and press play.
 
+
+You are welcome to contribute any improvements from the community by submitting a merge request.
+===============
+
 Pre-request
 ========================
 Using this asset requires you to import textmeshpro.
